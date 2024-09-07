@@ -4,11 +4,12 @@
 
 ### New Plot 1
 
-![New Plot 1](./newplot.png)
+<img src="./newplot(1).png" alt="New Plot 1" width="400"/>
 
 ### New Plot
 
-![New Plot](./newplot(2).png)
+<img src="./newplot.png" alt="New Plot" width="400"/>
+
 
 
 ## Overview
