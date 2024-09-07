@@ -4,11 +4,11 @@
 
 ### New Plot 1
 
-<img src="./newplot(1).png" alt="New Plot 1" width="400"/>
+<img src="./newplot(1).png" alt="New Plot 1" width="600"/>
 
 ### New Plot
 
-<img src="./newplot.png" alt="New Plot" width="400"/>
+<img src="./newplot.png" alt="New Plot" width="600"/>
 
 
 
