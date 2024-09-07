@@ -4,7 +4,7 @@
 
 ### New Plot 1
 
-![New Plot 1](./newplot(1).png)
+![New Plot 1](./newplot.png)
 
 ### New Plot
 
