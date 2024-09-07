@@ -1,5 +1,16 @@
 # Apple Stock Data Analysis
 
+## Example Plots
+
+### New Plot 1
+
+![New Plot 1](./newplot(1).png)
+
+### New Plot
+
+![New Plot](./newplot.png)
+
+
 ## Overview
 
 This project involves analyzing historical Apple stock data to visualize trends, calculate moving averages, and identify patterns. The analysis is performed using Python, with visualizations created using Matplotlib and Plotly. The dataset spans from 1984 to 2024 and includes daily stock prices and trading volume.
