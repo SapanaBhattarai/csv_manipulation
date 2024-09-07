@@ -8,7 +8,7 @@
 
 ### New Plot
 
-![New Plot](./newplot.png)
+![New Plot](./newplot(2).png)
 
 
 ## Overview
